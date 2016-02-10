@@ -8,5 +8,7 @@
                 first: "Sean",
                 last: "You"
             };
+
+            $scope.message = "Hello World!!!";
         });
 })();
